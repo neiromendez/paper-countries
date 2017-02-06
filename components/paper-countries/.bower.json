@@ -1,0 +1,51 @@
+{
+  "name": "paper-countries",
+  "homepage": "https://github.com/bluewatertracks/paper-countries",
+  "authors": [
+    "Raju Maisnam",
+    "Dmytro Hrytsenko",
+    "Bhargav Konkathi",
+    "Blue Water Tracks Team"
+  ],
+  "description": "Country flag dropdown",
+  "main": "paper-countries.html",
+  "keywords": [
+    "paper-countries",
+    "country-flag-dropdown",
+    "webcomponent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flag-icon-css": "^2.7.0",
+    "polymer": "^1.7.1",
+    "paper-input": "^1.1.22",
+    "paper-menu": "^1.2.2",
+    "paper-item": "^1.2.1",
+    "iron-ajax": "^1.4.3",
+    "paper-material": "^1.0.6",
+    "iron-component-page": "^1.1.8",
+    "webcomponentsjs": "^0.7.23"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "^1.2.5",
+    "web-component-tester": "^5.0.0",
+    "iron-test-helpers": "^1.4.0"
+  },
+  "_release": "c2d6fe8613",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c2d6fe8613b25a47754f142cc19c3ec3586189e7"
+  },
+  "_source": "https://github.com/bluewatertracks/paper-countries.git",
+  "_target": "master",
+  "_originalSource": "bluewatertracks/paper-countries",
+  "_direct": true
+}
